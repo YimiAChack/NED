@@ -20,7 +20,7 @@ sys.setdefaultencoding('utf8')
 
 
 # 同义词典，可以自定义添加
-homo_file = 'new_homo.txt' 
+homo_file = 'homo.txt' 
 
 
 def loadHomoDict(homo_file):
